@@ -1,0 +1,6 @@
+# Sanal ortam
+farenv/
+
+# Python derleme dosyaları
+__pycache__/
+*.pyc
